@@ -1,6 +1,6 @@
 # BootstrapX Components
 
-###### BootstrapX = Bootstrap Examples
+#### BootstrapX = Bootstrap Examples
 
 Testing components from Bootstrap in order to use them in current or future projects. Below are the ones that I used. For all the components below, there is code that would be in the '<body>' tag of the Set-Up code below. In addition, there is a picture detailing the result of each component. Tell me what you think and in addition, if i'm doing anything wrong.
 
@@ -48,6 +48,4 @@ Below is everything needed, that I used, in your Bootstrap HTML document.
     </nav>
 ```
 
-
-
-![](C:\Users\maxs\Documents\Code\Portfolio\BootstrapX\docs\Component Example Pictures\navbar.png)
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/navbar.png?raw=true)
