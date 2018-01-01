@@ -1,6 +1,6 @@
 # BootstrapX Components
 
-###### BootstrapX = Bootstrap Examples
+#### BootstrapX = Bootstrap Examples
 
 Testing components from Bootstrap in order to use them in current or future projects. Below are the ones that I used. For all the components below, there is code that would be in the '<body>' tag of the Set-Up code below. In addition, there is a picture detailing the result of each component. Tell me what you think and in addition, if i'm doing anything wrong.
 
