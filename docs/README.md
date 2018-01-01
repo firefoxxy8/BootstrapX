@@ -48,6 +48,4 @@ Below is everything needed, that I used, in your Bootstrap HTML document.
     </nav>
 ```
 
-
-
-![](C:\Users\maxs\Documents\Code\Portfolio\BootstrapX\docs\Component Example Pictures\navbar.png)
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/navbar.png?raw=true)
