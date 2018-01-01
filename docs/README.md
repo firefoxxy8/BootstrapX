@@ -49,3 +49,23 @@ Below is everything needed, that I used, in your Bootstrap HTML document.
 ```
 
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/navbar.png?raw=true)
+
+
+### Jumbotron
+```html
+<div class="jumbotron">
+      <h1 class="display-4">Hello, world!</h1>
+      <p class="lead">Beer. Now there's a temporary solution. Duffman can't breathe! OH NO! Son, when you participate in sporting events, it's not whether you win or lose:
+         it's how drunk you get. Homer no function beer well without.</p>
+      <hr class="my-4">
+      <p>Remember the time he ate my goldfish? And you lied and said I never had goldfish. 
+        Then why did I have the bowl, Bart? *Why did I have the bowl?* 
+        Donuts. Is there anything they can't do? Yes! I am a citizen! 
+        Now which way to the welfare office? I'm kidding, I'm kidding. I work, I work.</p>
+      <p class="lead">
+        <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
+      </p>
+    </div>
+```
+
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/jumbotron.png?raw=true)
