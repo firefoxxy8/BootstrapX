@@ -119,3 +119,33 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
 ```
 
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-img-back.png?raw=true)
+
+### Colored Cards
+```html
+<div class="card text-white bg-warning mb-3" style="max-width: 18rem;">
+	<div class="card-header">Colors</div>
+      	<div class="card-body">
+		<h5 class="card-title">Yellow</h5>
+		<p class="card-text">Yellow is a color made from a mixture of green and blue.</p>
+	</div>
+</div>
+```
+
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/colored-cards.png?raw=true)
+
+### Colored Outline Cards
+```html
+<div class="card border-primary mb-3" style="max-width: 18rem;">
+	<div class="card-header">Star Wars</div>
+    	<div class="card-body text-primary">
+      		<h5 class="card-title">Jedi</h5>
+      		<p class="card-text">A tremor in the Force. The last time I felt it was in the presence of my old master. </p>
+    	</div>
+</div>
+```
+
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/outline-colored-cards.png?raw=true)
+
+
+![](https://raw.githubusercontent.com/MaxShalom/BootstrapX/master/docs/Component%20Example%20Pictures/Logos/word-logo.png)
+
