@@ -6,7 +6,7 @@ Testing components from Bootstrap in order to use them in current or future proj
 
 ### Setting Up
 
-Below is everything needed, that I used, in your Bootstrap HTML document. 
+Below is everything needed, that I used, in my Bootstrap HTML documents. 
 
 ```html
 <!DOCTYPE html>
@@ -37,7 +37,8 @@ Bootstrap Set-Up
 
 
 
-### Navbar
+## Navbar
+See the navbar in action at [https://bootstrapx.surge.sh/navbar](https://bootstrapx.surge.sh/navbar).
 
 ```html
 <!-- Image and text -->
@@ -52,7 +53,8 @@ Bootstrap Set-Up
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/navbar.png?raw=true)
 
 
-### Jumbotron
+## Jumbotron
+See the jumbotron in action at [https://bootstrapx.surge.sh/jumbotron](https://bootstrapx.surge.sh/jumbotron).
 ```html
 <div class="jumbotron">
       <h1 class="display-4">Hello, world!</h1>
@@ -70,6 +72,10 @@ Bootstrap Set-Up
 ```
 
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/jumbotron.png?raw=true)
+
+## Cards
+See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.surge.sh/cards) (with working buttons!).
+
 
 ### Card with Picture
 ```html
