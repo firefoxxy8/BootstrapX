@@ -18,7 +18,8 @@ Below is everything needed, that I used, in your Bootstrap HTML document.
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.3/css/bootstrap.min.css" integrity="sha384-Zug+QiDoJOrZ5t4lssLdxGhVrurbmBWopoEl+M6BdEfwnCJZtKxi1KgxUyJq13dy" crossorigin="anonymous">
     
     <title>
-      Bootstrap Set-Up
+
+Bootstrap Set-Up
     </title>
   </head>
   <body>
@@ -69,3 +70,46 @@ Below is everything needed, that I used, in your Bootstrap HTML document.
 ```
 
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/jumbotron.png?raw=true)
+
+### Card with Picture
+```html
+<div class="card" style="width: 18rem;">
+	<img class="card-img-top" src="https://2.bp.blogspot.com/-HDAZ3X-b0r0/V3Wh6pCV-WI/AAAAAAAA57o/hI1KVFR2wYELGnlscZV4pbdaWsbV2U1igCLcB/s1600/Banff-National-Park-14.jpg" alt="Card image cap">
+	<div class="card-body">
+		<h5 class="card-title">Banff National Park</h5>
+		<p class="card-text">Banff National Park is a beautiful place in Alberta, Canada.</p>
+		<a href="https://www.banfflakelouise.com/" class="btn btn-primary">Go somewhere</a>
+	</div>
+</div>
+```
+
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-pictures.png?raw=true)
+
+### Card with Links
+```html
+<div class="card" style="width: 18rem;">
+	<div class="card-body">
+		<h5 class="card-title">New York City</h5>
+		<h6 class="card-subtitle mb-2 text-muted">NY, United States of America</h6>
+		<p class="card-text">New York City is the most populous city in the United States, with an estimated 2016 population of 8,537,673 people.</p>
+		<a href="https://www.nycgo.com/" class="card-link">Visit NYC</a>
+		<a href="https://goo.gl/maps/2wv6gSUC3p72" class="card-link">Directions</a>
+	</div>
+</div>
+```
+
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-links.png?raw=true)
+
+### Image as Card Background
+```html
+<div class="card bg-dark text-white">
+	<img class="card-img" src="https://raw.githubusercontent.com/MaxShalom/BootstrapX/master/Components/assets/gradient.png" alt="Card image">
+	<div class="card-img-overlay">
+		<h5 class="card-title">Portland, OR</h5>
+		<p class="card-text">Portland is the largest city in the U.S. state of Oregon and the seat of Multnomah County. The population is 639,863 people.</p>
+		<p class="card-text">Last updated January 1, 2018</p>
+	</div>
+</div>
+```
+
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-img-back.png?raw=true)
