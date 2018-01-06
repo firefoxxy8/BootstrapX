@@ -68,6 +68,8 @@ See the jumbotron in action at [https://bootstrapx.surge.sh/jumbotron](https://b
     </div>
 ```
 
+{% gist e57726dff969dab9eb866f5f179f9518 jumbotron.html %}
+
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/jumbotron.png?raw=true)
 
 ## Cards
