@@ -146,5 +146,5 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/outline-colored-cards.png?raw=true)
 
 
-![](https://raw.githubusercontent.com/MaxShalom/BootstrapX/master/docs/Component%20Example%20Pictures/Logos/word-logo.png)
+![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/assets/Logos/word-logo.png?raw=true)
 
