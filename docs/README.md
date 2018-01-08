@@ -32,7 +32,7 @@ Below is everything needed, that I used, in my Bootstrap HTML documents.
 </html>
 ```
 
-
+{% gist e57726dff969dab9eb866f5f179f9518 template.html %}
 
 ## Navbar
 See the navbar in action at [https://bootstrapx.surge.sh/navbar](https://bootstrapx.surge.sh/navbar).
@@ -46,6 +46,8 @@ See the navbar in action at [https://bootstrapx.surge.sh/navbar](https://bootstr
       </a>
     </nav>
 ```
+
+{% gist e57726dff969dab9eb866f5f179f9518 navbar.html %}
 
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/navbar.png?raw=true)
 
@@ -88,6 +90,8 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
 </div>
 ```
 
+{% gist e57726dff969dab9eb866f5f179f9518 card-picture.html %}
+
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-pictures.png?raw=true)
 
 ### Card with Links
@@ -103,6 +107,8 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
 </div>
 ```
 
+{% gist e57726dff969dab9eb866f5f179f9518 card-links.html %}
+
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-links.png?raw=true)
 
 ### Image as Card Background
@@ -117,6 +123,8 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
 </div>
 ```
 
+{% gist e57726dff969dab9eb866f5f179f9518 img-card-background.html %}
+
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/card-img-back.png?raw=true)
 
 ### Colored Cards
@@ -130,6 +138,8 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
 </div>
 ```
 
+{% gist e57726dff969dab9eb866f5f179f9518 colored-cards.html %}
+
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/colored-cards.png?raw=true)
 
 ### Colored Outline Cards
@@ -142,6 +152,8 @@ See the cards in action at [http://bootstrapx.surge.sh/cards](http://bootstrapx.
     	</div>
 </div>
 ```
+
+{% gist e57726dff969dab9eb866f5f179f9518 color-outline-cards.html %}
 
 ![](https://github.com/MaxShalom/BootstrapX/blob/master/docs/Component%20Example%20Pictures/outline-colored-cards.png?raw=true)
 
