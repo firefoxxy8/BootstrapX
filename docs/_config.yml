@@ -1,3 +1,5 @@
 remote_theme: qwtel/hydejack 
 
 description: Creative + Practical Bootstrap Examples 
+
+accent_image: /assets/sidebar-img.jpg
