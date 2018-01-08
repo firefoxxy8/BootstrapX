@@ -1,5 +1,5 @@
-remote_theme: MaxShalom/hydejack 
+remote_theme: qwtel/hydejack 
 
 description: Creative + Practical Bootstrap Examples 
 
-copyright: © 2018 Max Shalom
+accent_image: /assets/sidebar-img.jpg
