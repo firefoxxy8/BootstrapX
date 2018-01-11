@@ -1,5 +1,7 @@
 # BootstrapX
 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/MaxShalom/BootstrapX.svg?columns=all)](https://waffle.io/MaxShalom/BootstrapX) 
+
 ### BootstrapX = Bootstrap Examples
 
 I created BootstrapX as a project to experiment with the Bootstrap framework. I tested many components and tried to make them as useful as possible. I also added real words (not Lorem Ipsum - Simpsons, Star Wars quotes, and more!) and working links in order to get the full experience of how it would really feel like to implement them on your website. Soon, I plan to add components from the [Froala Design Blocks](https://www.froala.com/design-blocks) and other frameworks such as [Vue.js](https://vuejs.org/) and [React](https://reactjs.org/). 
