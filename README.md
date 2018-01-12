@@ -18,7 +18,7 @@ See the website for components, code, and pictures: http://maxshalom.me/Bootstra
 To see live, working component examples: http://bootstrapx.surge.sh/
 
 Also, if you'd like you can see the full HTML files and assets used in the [Components](https://github.com/MaxShalom/BootstrapX/tree/master/Components)
-folder. All the code snippets used in the website can be foung in the [Github Gist](https://gist.github.com/MaxShalom/e57726dff969dab9eb866f5f179f9518).
+folder. All the code snippets used in the website can be found in the [Github Gist](https://gist.github.com/MaxShalom/e57726dff969dab9eb866f5f179f9518).
 
 See the project on Product Hunt and comment what you think! [https://www.producthunt.com/posts/bootstrapx](https://www.producthunt.com/posts/bootstrapx)
 
