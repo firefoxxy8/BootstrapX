@@ -1,6 +1,6 @@
 # BootstrapX
 
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/MaxShalom/BootstrapX.svg?columns=all)](https://waffle.io/MaxShalom/BootstrapX) 
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/MaxShalom/BootstrapX.svg?columns=all)](https://waffle.io/MaxShalom/BootstrapX) [![npm](https://img.shields.io/npm/l/express.svg)]() [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
 ### BootstrapX = Bootstrap Examples
 
