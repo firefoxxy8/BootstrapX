@@ -14,6 +14,7 @@ I'm using the official Bootstrap [components](https://getbootstrap.com/docs/4.0/
 and the [Hydejack](https://github.com/qwtel/hydejack) Jekyll theme by @qwtel.
 
 See the website for components, code, and pictures: http://maxshalom.me/BootstrapX/
+
 To see live, working component examples: http://bootstrapx.surge.sh/
 
 Also, if you'd like you can see the full HTML files and assets used in the [Components](https://github.com/MaxShalom/BootstrapX/tree/master/Components)
